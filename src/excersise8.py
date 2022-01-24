@@ -1,6 +1,0 @@
-c = int(input("enterc "))
-r = int(input("enterr "))
-t = int(input("entert "))
-n = float(input("entern "))
-p = c*(1+(r/n))**(t*n)
-print(p)
