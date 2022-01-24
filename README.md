@@ -10,3 +10,4 @@ This repository is created to collect the assignment solutions for the subject S
 3.KATONGOLE BILL IVAN
 4.AINEMBABAZI WITHUS
 5.KUSIIMA DENISE
+6.NUWAGIRA YOWERI
