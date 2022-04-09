@@ -1,0 +1,6 @@
+a = input('VALUE OF X1:')
+b = input('VALUE OF Y1:')
+c = input('VALUE OF X2:')
+d = input('VALUE OF Y2:')
+e = ((float(c) - float(a)) ** 2) + ((float(d) - float(b)) ** 2)
+print(float(e ** 0.5))
